@@ -1,1 +1,8 @@
 theme: jekyll-theme-cayman
+title: 百泽知识服务平台的技术专栏
+brief-intro: Android and Python Coder
+baseurl: "/" 
+url: "https://sunnyli428.github.io/"
+permalink: /:year/:month/:day/:title/
+
+description_footer: 来自百泽知识服务平台的技术专栏！
